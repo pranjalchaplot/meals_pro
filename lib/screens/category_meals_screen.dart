@@ -24,7 +24,7 @@ class CategoryMealsScreen extends StatelessWidget {
         ),
       ),
       body: Center(
-        child: Text('The Recipie of $categoryTitle dishes'),
+        child: Text('The Recipie of $categoryTitle dish'),
       ),
     );
   }
